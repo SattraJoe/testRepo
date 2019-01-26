@@ -172,6 +172,7 @@
     <script type="text/javascript" src="{{URL::asset('js/LearnJSFund/arrays.js')}}"></script>
     <script type="text/javascript" src="{{URL::asset('js/LearnJSFund/custom.js')}}"></script>
     <script type="text/javascript" src="{{URL::asset('js/LearnJSFund/learning2codeJS.js')}}"></script>
+    <script type="text/javascript" src="{{URL::asset('js/LearnJSFund/JS_array_methods_you_should_know.js')}}"></script>
     <script type="text/javascript">  
       // Don't write javaScript in the HTML page
       
